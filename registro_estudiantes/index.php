@@ -1,5 +1,3 @@
-
-
 <form action="index.php" method="POST">
     <label for="nombre">Nombre:</label>
     <input type="text" id="nombre" name="nombre" maxlength="80" required>
